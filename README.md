@@ -25,4 +25,20 @@ research, academic, and policy-making purposes.
 The dataset mainly focuses on the dimensions that the UNDP uses to compute the Human
 Development Index (HDI) for 2021-2022. The dataset contains a total of seven tables that focus on
 different human development composite indices. For this project, we will primarily focus on five tables that
-are of interest
+are of interest which are: 
+Table 1: Human Development Index and its components
+  ● This table focuses on the three dimensions used to compute the HDI for different countries and
+  includes metrics such as life expectancy, schooling years, and gross national income per capita.
+Table 2: Human Development Index trends, 1990-2021
+  ● This table provides information on the evolution of HDI values over the past decades for various
+  countries.
+Table 4: Gender Development Index
+  ● This table offers insights into gender-specific development indices for various countries that
+  focuses on the three dimensions of HDI.
+Table 5: Gender Inequality Index
+  ● This table provides insights on gender disparities in human development metrics across various
+  countries.
+Table 7: Planetary pressures-adjusted Human Development Index
+  ● This table has metrics such as carbon dioxide emissions and material footprint that focuses on
+  the environment considerations into traditional HDI, reflecting a broad view of development
+  across different countries.
