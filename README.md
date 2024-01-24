@@ -17,6 +17,7 @@ exploration, we aim to generate valuable insights that can inform policymakers, 
 at large.
 
 **DATASET**
+
 The dataset is extracted directly from the official website of the United Nations Development
 Programme (UNDP). The dataset is created from Human Development Reports by UNDP and falls
 under the Creative Commons Attribution 3.0 IGO License. It is an open-sourced data by the UNDP for
@@ -28,18 +29,22 @@ different human development composite indices. For this project, we will primari
 are of interest which are: 
 
 Table 1: Human Development Index and its components
+
   ● This table focuses on the three dimensions used to compute the HDI for different countries and
   includes metrics such as life expectancy, schooling years, and gross national income per capita.
   
 Table 2: Human Development Index trends, 1990-2021
+
   ● This table provides information on the evolution of HDI values over the past decades for various
   countries.
   
 Table 4: Gender Development Index
+
   ● This table offers insights into gender-specific development indices for various countries that
   focuses on the three dimensions of HDI.
   
 Table 5: Gender Inequality Index
+
   ● This table provides insights on gender disparities in human development metrics across various
   countries.
   
